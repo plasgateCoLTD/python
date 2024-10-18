@@ -12,7 +12,7 @@ with open("README.md") as f:
 # documentation: http://pypi.python.org/pypi/setuptools
 
 setup(
-    name="plasgate",
+    name="plasgate-sms",
     version="0.0.1",
     description="Plasgate SMS API client",
     author="PlasgateCoLtd",
