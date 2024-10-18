@@ -13,7 +13,7 @@ with open("README.md") as f:
 
 setup(
     name="plasgate-sms",
-    version="0.0.1",
+    version="1.0.0",
     description="Plasgate SMS API client",
     author="PlasgateCoLtd",
     help_center="https://plasgate.com/contact",
