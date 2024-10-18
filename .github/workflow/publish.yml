@@ -32,4 +32,4 @@ jobs:
           TWINE_PASSWORD: ${{ secrets.PYPI_API_TOKEN }} # Store your PyPI API token in GitHub secrets
         run: |
           pip install twine
-          twine upload dist/*
+          twine upload dist/* --verbose
